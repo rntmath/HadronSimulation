@@ -1,0 +1,21 @@
+A classe TGraph é para obter os pontos de um gráfico
+
+https://root.cern.ch/doc/master/classTGraph.html
+
+A classe TRandom3 é uma classe para gerar números randomicos.
+
+https://root.cern.ch/doc/master/classTRandom3.html
+
+TF1 é a classe para incluir uma equação ao programa, e usamos o parameter para incluir variáveis a equação
+
+https://root.cern.ch/doc/master/classTF1.h
+
+
+O fr->CalcGaussLegendreSamplingPoints(np,xf,wf,1e-15); 
+
+é para fazer um IntegralFast, integrar o gráfico obtido.
+
+Obs. O código está escrito de forma linear e as classes usadas, são classes existentes do root.  
+
+
+
