@@ -1,0 +1,6 @@
+melhorar o código na sua performance (redução de tempo médio para gerar um evento) 
+melhorar a estrutura (em classes do C++) para podermos publicar no CPC. 
+
+Para publicar lá precisamos transferir o código completo para eles e fazer uma análise de um estudo de caso, com input, output, tempo de run, memória necessária, etc.
+Vamos começar pela estrutura e otimização, depois fazemos o teste para publicação (Renato poderá ajudar aqui) e depois pensamos no texto do artigo.
+
